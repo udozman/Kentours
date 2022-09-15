@@ -94,7 +94,7 @@ body {
   height: 100%;
 }
 .heading_text_box_home{
-  background-image: url("sunset_rider.jpg");
+  background-image: url("images/sunset_rider.jpg");
 }
 span{
   color: #edeff2;
@@ -271,7 +271,7 @@ span{
   color: #a3380d;
 }
 .heading_text_box_about{
-  background-image: url("jumping.jpg");
+  background-image: url("images/jumping.jpg");
 }
 .services{
   text-align: center;
@@ -295,7 +295,7 @@ span{
   margin-top: 8rem;
 }
 .heading_text_box_contact{
-  background-image: url("call.jpg");
+  background-image: url("images/call.jpg");
 }
 .contact{
   padding: 10rem 0;
